@@ -1,4 +1,4 @@
-# Proje Tanımı Dökümanı
+# Proje Tanımı Dokümanı
 ### Proje Adı: Sophia
 
 ## İçindekiler:

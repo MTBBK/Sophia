@@ -127,7 +127,7 @@ UML diyagramı bu örüntüye uygun olarak manager objesinin birden fazla instan
 
 ## Görev Matrisi
 
-| **Döküman Gereksinimleri** | **Görev Alan Üye**                       |
+| **Doküman Gereksinimleri** | **Görev Alan Üye**                       |
 | -------------------------- | ---------------------------------------- |
 | Projenin Özeti             | Mustafa Alperen Coşkun ve Emre Karaduman |
 | Sistem Mimarisi            | Mustafa Alperen Coşkun ve Emre Karaduman |
